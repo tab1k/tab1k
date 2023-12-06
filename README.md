@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tab1k
 - 👀 I’m interested in nice work
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ERP Odoo
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me with telegram @tab1k_k
 
