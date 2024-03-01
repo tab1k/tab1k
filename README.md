@@ -2,7 +2,7 @@
 - 👀 I’m interested in nice work
 - 🌱 I’m currently learning ERP Odoo
 - 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me with telegram @warriorqaz
+- 📫 How to reach me with telegram @tab1kkz
 
 <!---
 tab1k/tab1k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
